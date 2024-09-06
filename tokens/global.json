@@ -1,185 +1,185 @@
 {
-  "letterSpacing-0": {
+  "miniDS-letterSpacing-0": {
     "$type": "letterSpacing",
     "$value": "0"
   },
-  "lineHeight-150": {
+  "miniDS-lineHeight-150": {
     "$type": "lineHeights",
     "$value": "150%"
   },
-  "lineHeight-120": {
+  "miniDS-lineHeight-120": {
     "$type": "lineHeights",
     "$value": "120%"
   },
-  "fontSize-1125": {
+  "miniDS-fontSize-1125": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}"
+    "$value": "{miniDS-fontSize-base}*1.125"
   },
-  "fontSize-1250": {
+  "miniDS-fontSize-1250": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}*1.25"
+    "$value": "{miniDS-miniDS-fontSize-base}*1.25"
   },
-  "fontSize-1500": {
+  "miniDS-fontSize-1500": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}*1.5"
+    "$value": "{miniDS-fontSize-base}*1.5"
   },
-  "fontSize-1750": {
+  "miniDS-fontSize-1750": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}*1.75"
+    "$value": "{miniDS-fontSize-base}*1.75"
   },
-  "fontSize-2000": {
+  "miniDS-fontSize-2000": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}*2"
+    "$value": "{miniDS-fontSize-base}*2"
   },
-  "fontSize-2250": {
+  "miniDS-fontSize-2250": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}*2.25"
+    "$value": "{miniDS-fontSize-base}*2.25"
   },
-  "fontSize-3000": {
+  "miniDS-fontSize-3000": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}*3"
+    "$value": "{miniDS-fontSize-base}*3"
   },
-  "fontSize-3500": {
+  "miniDS-fontSize-3500": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}*3.5"
+    "$value": "{miniDS-fontSize-base}*3.5"
   },
-  "fontSize-4000": {
+  "miniDS-fontSize-4000": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}*4"
+    "$value": "{miniDS-fontSize-base}*4"
   },
-  "Number-2": {
+  "miniDS-Number-2": {
     "$type": "number",
     "$value": "2"
   },
-  "Number-1": {
+  "miniDS-Number-1": {
     "$type": "number",
     "$value": "1"
   },
-  "Number-4": {
+  "miniDS-Number-4": {
     "$type": "number",
     "$value": "4"
   },
-  "Number-8": {
+  "miniDS-Number-8": {
     "$type": "number",
     "$value": "8"
   },
-  "Number-16": {
+  "miniDS-Number-16": {
     "$type": "number",
     "$value": "16"
   },
-  "Number-24": {
+  "miniDS-Number-24": {
     "$type": "number",
     "$value": "24"
   },
-  "Number-32": {
+  "miniDS-Number-32": {
     "$type": "number",
     "$value": "32"
   },
-  "Number-40": {
+  "miniDS-Number-40": {
     "$type": "number",
     "$value": "40"
   },
-  "Number-48": {
+  "miniDS-Number-48": {
     "$type": "number",
     "$value": "48"
   },
-  "Number-56": {
+  "miniDS-Number-56": {
     "$type": "number",
     "$value": "56"
   },
-  "Number-64": {
+  "miniDS-Number-64": {
     "$type": "number",
     "$value": "64"
   },
-  "Number-72": {
+  "miniDS-Number-72": {
     "$type": "number",
     "$value": "72"
   },
-  "Number-80": {
+  "miniDS-Number-80": {
     "$type": "number",
     "$value": "80"
   },
-  "Number-88": {
+  "miniDS-Number-88": {
     "$type": "number",
     "$value": "88"
   },
-  "Number-96": {
+  "miniDS-Number-96": {
     "$type": "number",
     "$value": "96"
   },
-  "Number-104": {
+  "miniDS-Number-104": {
     "$type": "number",
     "$value": "104"
   },
-  "Number-112": {
+  "miniDS-Number-112": {
     "$type": "number",
     "$value": "112"
   },
-  "Number-120": {
+  "miniDS-Number-120": {
     "$type": "number",
     "$value": "120"
   },
-  "Number-128": {
+  "miniDS-Number-128": {
     "$type": "number",
     "$value": "128"
   },
-  "Number-136": {
+  "miniDS-Number-136": {
     "$type": "number",
     "$value": "136"
   },
-  "Number-144": {
+  "miniDS-Number-144": {
     "$type": "number",
     "$value": "144"
   },
-  "Number-152": {
+  "miniDS-Number-152": {
     "$type": "number",
     "$value": "152"
   },
-  "Number-160": {
+  "miniDS-Number-160": {
     "$type": "number",
     "$value": "160"
   },
-  "Number-192": {
+  "miniDS-Number-192": {
     "$type": "number",
     "$value": "192"
   },
-  "Number-256": {
+  "miniDS-Number-256": {
     "$type": "number",
     "$value": "256"
   },
-  "Number-320": {
+  "miniDS-Number-320": {
     "$type": "number",
     "$value": "320"
   },
-  "Number-448": {
+  "miniDS-Number-448": {
     "$type": "number",
     "$value": "448"
   },
-  "Number-600": {
+  "miniDS-Number-600": {
     "$type": "number",
     "$value": "600"
   },
-  "Number-720": {
+  "miniDS-Number-720": {
     "$type": "number",
     "$value": "720"
   },
-  "Number-800": {
+  "miniDS-Number-800": {
     "$type": "number",
     "$value": "800"
   },
-  "Number-960": {
+  "miniDS-Number-960": {
     "$type": "number",
     "$value": "960"
   },
-  "Number-1024": {
+  "miniDS-Number-1024": {
     "$type": "number",
     "$value": "1024"
   },
-  "Number-1440": {
+  "miniDS-Number-1440": {
     "$type": "number",
     "$value": "1440"
   },
-  "Mini-blue": {
+  "miniDS-Mini-blue": {
     "100": {
       "$type": "color",
       "$value": "#b3c7f7"
@@ -201,7 +201,7 @@
       "$value": "#054fb9"
     }
   },
-  "Mini-orange": {
+  "miniDS-Mini-orange": {
     "100": {
       "$type": "color",
       "$value": "#fcc9b5"
@@ -223,7 +223,7 @@
       "$value": "#c44601"
     }
   },
-  "Stone": {
+  "miniDS-Stone": {
     "50": {
       "$type": "color",
       "$value": "#fafaf9"
@@ -245,7 +245,7 @@
       "$value": "#1c1917"
     }
   },
-  "Sky": {
+  "miniDS-Sky": {
     "50": {
       "$type": "color",
       "$value": "#f0f9ff"
@@ -267,7 +267,7 @@
       "$value": "#0c4a6e"
     }
   },
-  "Emerald": {
+  "miniDS-Emerald": {
     "50": {
       "$type": "color",
       "$value": "#f0fdf4"
@@ -289,7 +289,7 @@
       "$value": "#064e3b"
     }
   },
-  "Red": {
+  "miniDS-Red": {
     "50": {
       "$type": "color",
       "$value": "#fef2f2"
@@ -311,7 +311,7 @@
       "$value": "#7f1d1d"
     }
   },
-  "Amber": {
+  "miniDS-Amber": {
     "50": {
       "$type": "color",
       "$value": "#fffbeb"
@@ -333,7 +333,7 @@
       "$value": "#78350f"
     }
   },
-  "Brand2": {
+  "miniDS-Brand2": {
     "100": {
       "$extensions": {
         "studio.tokens": {
@@ -345,7 +345,7 @@
         }
       },
       "$type": "color",
-      "$value": "{Brand2.500}"
+      "$value": "{miniDS-Brand2.500}"
     },
     "300": {
       "$extensions": {
@@ -358,7 +358,7 @@
         }
       },
       "$type": "color",
-      "$value": "{Brand2.500}"
+      "$value": "{miniDS-Brand2.500}"
     },
     "500": {
       "$type": "color",
@@ -375,7 +375,7 @@
         }
       },
       "$type": "color",
-      "$value": "{Brand2.500}"
+      "$value": "{miniDS-Brand2.500}"
     },
     "900": {
       "$extensions": {
@@ -388,54 +388,54 @@
         }
       },
       "$type": "color",
-      "$value": "{Brand2.500}"
+      "$value": "{miniDS-Brand2.500}"
     }
   },
-  "fontFamilie-Atkinson": {
+  "miniDS-fontFamilie-Atkinson": {
     "$type": "fontFamilies",
     "$value": "Atkinson Hyperlegible"
   },
-  "fontWeight-Bold": {
+  "miniDS-fontWeight-Bold": {
     "$type": "fontWeights",
     "$value": "Bold"
   },
-  "fontWeight-Regular": {
+  "miniDS-fontWeight-Regular": {
     "$type": "fontWeights",
     "$value": "Regular"
   },
-  "fontSize-base": {
+  "miniDS-fontSize-base": {
     "$type": "fontSizes",
     "$value": "1rem"
   },
-  "fontSize-0875": {
+  "miniDS-fontSize-0875": {
     "$type": "fontSizes",
-    "$value": "{fontSize-base}"
+    "$value": "{miniDS-fontSize-base}*0.875"
   },
-  "paragraphSpacing-0": {
+  "miniDS-paragraphSpacing-0": {
     "$type": "paragraphSpacing",
     "$value": "0"
   },
-  "textDecoration-none": {
+  "miniDS-textDecoration-none": {
     "$type": "textDecoration",
     "$value": "none"
   },
-  "textDecoration-underline": {
+  "miniDS-textDecoration-underline": {
     "$type": "textDecoration",
     "$value": "underline"
   },
-  "textCase-none": {
+  "miniDS-textCase-none": {
     "$type": "textCase",
     "$value": "none"
   },
-  "textCase-uppercase": {
+  "miniDS-textCase-uppercase": {
     "$type": "textCase",
     "$value": "uppercase"
   },
-  "fontFamilie-Roboto Mono": {
+  "miniDS-fontFamilie-Roboto Mono": {
     "$type": "fontFamilies",
     "$value": "Roboto Mono"
   },
-  "Number-0": {
+  "miniDS-Number-0": {
     "$type": "number",
     "$value": "0"
   }

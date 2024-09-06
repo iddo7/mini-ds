@@ -4,9 +4,9 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "source",
-      "Semantic": "enabled",
-      "Components": "disabled"
+      "Semantic": "source",
+      "Components": "enabled",
+      "global": "source"
     },
     "group": "Brand"
   },
@@ -15,9 +15,9 @@
     "name": "Brand 2",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "source",
-      "Semantic": "enabled",
-      "Components": "disabled"
+      "Semantic": "source",
+      "Components": "enabled",
+      "global": "source"
     },
     "group": "Brand"
   }

@@ -1,72 +1,72 @@
 {
-  "primary": {
+  "miniDS-primary": {
     "lighter": {
       "$type": "color",
-      "$value": "{Mini-blue.100}"
+      "$value": "{miniDS-Mini-blue.100}"
     },
-    "light": {
+    "miniDS-light": {
       "$type": "color",
-      "$value": "{Mini-blue.300}"
+      "$value": "{miniDS-Mini-blue.300}"
     },
-    "medium": {
+    "miniDS-medium": {
       "$type": "color",
-      "$value": "{Mini-blue.500}"
+      "$value": "{miniDS-Mini-blue.500}"
     },
-    "dark": {
+    "miniDS-dark": {
       "$type": "color",
-      "$value": "{Mini-blue.700}"
+      "$value": "{miniDS-Mini-blue.700}"
     },
-    "darker": {
+    "miniDS-darker": {
       "$type": "color",
-      "$value": "{Mini-blue.900}"
+      "$value": "{miniDS-Mini-blue.900}"
     }
   },
   "secondary": {
     "lighter": {
       "$type": "color",
-      "$value": "{Mini-orange.100}"
+      "$value": "{miniDS-Mini-orange.100}"
     },
-    "light": {
+    "miniDS-light": {
       "$type": "color",
-      "$value": "{Mini-orange.300}"
+      "$value": "{miniDS-Mini-orange.300}"
     },
-    "medium": {
+    "miniDS-medium": {
       "$type": "color",
-      "$value": "{Mini-orange.500}"
+      "$value": "{miniDS-Mini-orange.500}"
     },
-    "dark": {
+    "miniDS-dark": {
       "$type": "color",
-      "$value": "{Mini-orange.700}"
+      "$value": "{miniDS-Mini-orange.700}"
     },
-    "darker": {
+    "miniDS-darker": {
       "$type": "color",
-      "$value": "{Mini-orange.900}"
+      "$value": "{miniDS-Mini-orange.900}"
     }
   },
   "Neutral": {
     "lighter": {
       "$type": "color",
-      "$value": "{Stone.50}",
+      "$value": "{miniDS-Stone.50}",
       "$description": "For backgrounds"
     },
-    "light": {
+    "miniDS-light": {
       "$type": "color",
-      "$value": "{Stone.100}",
+      "$value": "{miniDS-Stone.100}",
       "$description": "For backgrounds"
     },
-    "medium": {
+    "miniDS-medium": {
       "$type": "color",
-      "$value": "{Stone.500}",
+      "$value": "{miniDS-Stone.500}",
       "$description": "For text"
     },
-    "dark": {
+    "miniDS-dark": {
       "$type": "color",
-      "$value": "{Stone.700}",
+      "$value": "{miniDS-Stone.700}",
       "$description": "For text"
     },
-    "darker": {
+    "miniDS-darker": {
       "$type": "color",
-      "$value": "{Stone.900}",
+      "$value": "{miniDS-Stone.900}",
       "$description": "For text"
     }
   },
@@ -74,89 +74,89 @@
     "Info": {
       "lighter": {
         "$type": "color",
-        "$value": "{Sky.50}"
+        "$value": "{miniDS-Sky.50}"
       },
       "light": {
         "$type": "color",
-        "$value": "{Sky.300}"
+        "$value": "{miniDS-Sky.300}"
       },
       "medium": {
         "$type": "color",
-        "$value": "{Sky.500}"
+        "$value": "{miniDS-Sky.500}"
       },
       "dark": {
         "$type": "color",
-        "$value": "{Sky.700}"
+        "$value": "{miniDS-Sky.700}"
       },
       "darker": {
         "$type": "color",
-        "$value": "{Sky.900}"
+        "$value": "{miniDS-Sky.900}"
       }
     },
-    "positive": {
+    "miniDS-positive": {
       "lighter": {
         "$type": "color",
-        "$value": "{Emerald.50}"
+        "$value": "{miniDS-Emerald.50}"
       },
       "light": {
         "$type": "color",
-        "$value": "{Emerald.300}"
+        "$value": "{miniDS-Emerald.300}"
       },
       "medium": {
         "$type": "color",
-        "$value": "{Emerald.500}"
+        "$value": "{miniDS-Emerald.500}"
       },
       "dark": {
         "$type": "color",
-        "$value": "{Emerald.700}"
+        "$value": "{miniDS-Emerald.700}"
       },
       "darker": {
         "$type": "color",
-        "$value": "{Emerald.900}"
+        "$value": "{miniDS-Emerald.900}"
       }
     },
-    "negative": {
+    "miniDS-negative": {
       "lighter": {
         "$type": "color",
-        "$value": "{Red.50}"
+        "$value": "{miniDS-Red.50}"
       },
       "light": {
         "$type": "color",
-        "$value": "{Red.200}"
+        "$value": "{miniDS-Red.200}"
       },
       "medium": {
         "$type": "color",
-        "$value": "{Red.500}"
+        "$value": "{miniDS-Red.500}"
       },
       "dark": {
         "$type": "color",
-        "$value": "{Red.700}"
+        "$value": "{miniDS-Red.700}"
       },
       "darker": {
         "$type": "color",
-        "$value": "{Red.900}"
+        "$value": "{miniDS-Red.900}"
       }
     },
-    "warning": {
+    "miniDS-warning": {
       "lighter": {
         "$type": "color",
-        "$value": "{Amber.50}"
+        "$value": "{miniDS-Amber.50}"
       },
       "light": {
         "$type": "color",
-        "$value": "{Amber.200}"
+        "$value": "{miniDS-Amber.200}"
       },
       "medium": {
         "$type": "color",
-        "$value": "{Amber.500}"
+        "$value": "{miniDS-Amber.500}"
       },
       "dark": {
         "$type": "color",
-        "$value": "{Amber.700}"
+        "$value": "{miniDS-Amber.700}"
       },
       "darker": {
         "$type": "color",
-        "$value": "{Amber.900}"
+        "$value": "{miniDS-Amber.900}"
       }
     }
   },
@@ -175,7 +175,7 @@
       },
       "$description": "For marketing purposes"
     },
-    "md": {
+    "miniDS-md": {
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamilie-Atkinson}",
@@ -189,7 +189,7 @@
       },
       "$description": "For marketing purposes"
     },
-    "sm": {
+    "miniDS-sm": {
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamilie-Atkinson}",
@@ -219,7 +219,7 @@
       },
       "$description": "For titles"
     },
-    "H2": {
+    "miniDS-H2": {
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamilie-Atkinson}",
@@ -233,7 +233,7 @@
       },
       "$description": "For titles"
     },
-    "H3": {
+    "miniDS-H3": {
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamilie-Atkinson}",
@@ -247,7 +247,7 @@
       },
       "$description": "For titles"
     },
-    "H4": {
+    "miniDS-H4": {
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamilie-Atkinson}",
@@ -261,7 +261,7 @@
       },
       "$description": "For titles"
     },
-    "H5": {
+    "miniDS-H5": {
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamilie-Atkinson}",
@@ -318,7 +318,7 @@
         }
       }
     },
-    "Bold": {
+    "miniDS-Bold": {
       "lg": {
         "$type": "typography",
         "$value": {
@@ -405,7 +405,7 @@
         "$description": "Links on paragraph"
       }
     },
-    "Bold": {
+    "miniDS-Bold": {
       "lg": {
         "$type": "typography",
         "$value": {
@@ -488,14 +488,14 @@
           "lineHeight": "{lineHeight-150}",
           "letterSpacing": "{letterSpacing-0}",
           "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-underline}",
+          "textDecoration": "{textDecoration-none}",
           "textCase": "{textCase-none}",
           "fontSize": "{fontSize-0875}"
         },
         "$description": "Links on paragraph"
       }
     },
-    "Bold": {
+    "miniDS-Bold": {
       "lg": {
         "$type": "typography",
         "$value": {
@@ -532,7 +532,7 @@
           "lineHeight": "{lineHeight-150}",
           "letterSpacing": "{letterSpacing-0}",
           "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-underline}",
+          "textDecoration": "{textDecoration-none}",
           "textCase": "{textCase-none}",
           "fontSize": "{fontSize-0875}"
         },
@@ -542,151 +542,151 @@
   },
   "radil-square": {
     "$type": "borderRadius",
-    "$value": "{Number-0}"
+    "$value": "{miniDS-Number-0}"
   },
   "radil-medium": {
     "$type": "borderRadius",
-    "$value": "{Number-16}"
+    "$value": "{miniDS-Number-16}"
   },
   "radil-small": {
     "$type": "borderRadius",
-    "$value": "{Number-8}"
+    "$value": "{miniDS-Number-8}"
   },
   "radil-Xsmall": {
     "$type": "borderRadius",
-    "$value": "{Number-4}"
+    "$value": "{miniDS-Number-4}"
   },
   "radil-round": {
     "$type": "borderRadius",
-    "$value": "{Number-800}"
+    "$value": "{miniDS-Number-800}"
   },
   "size-0": {
     "$type": "sizing",
-    "$value": "{Number-0}"
+    "$value": "{miniDS-Number-0}"
   },
   "size-2": {
     "$type": "sizing",
-    "$value": "{Number-2}"
+    "$value": "{miniDS-Number-2}"
   },
   "size-4": {
     "$type": "sizing",
-    "$value": "{Number-4}"
+    "$value": "{miniDS-Number-4}"
   },
   "size-8": {
     "$type": "sizing",
-    "$value": "{Number-8}"
+    "$value": "{miniDS-Number-8}"
   },
   "size-16": {
     "$type": "sizing",
-    "$value": "{Number-16}"
+    "$value": "{miniDS-Number-16}"
   },
   "size-24": {
     "$type": "sizing",
-    "$value": "{Number-24}"
+    "$value": "{miniDS-Number-24}"
   },
   "size-32": {
     "$type": "sizing",
-    "$value": "{Number-32}"
+    "$value": "{miniDS-Number-32}"
   },
   "size-40": {
     "$type": "sizing",
-    "$value": "{Number-40}"
+    "$value": "{miniDS-Number-40}"
   },
   "size-48": {
     "$type": "sizing",
-    "$value": "{Number-48}"
+    "$value": "{miniDS-Number-48}"
   },
   "size-56": {
     "$type": "sizing",
-    "$value": "{Number-56}"
+    "$value": "{miniDS-Number-56}"
   },
   "size-64": {
     "$type": "sizing",
-    "$value": "{Number-64}"
+    "$value": "{miniDS-Number-64}"
   },
   "size-72": {
     "$type": "sizing",
-    "$value": "{Number-72}"
+    "$value": "{miniDS-Number-72}"
   },
   "size-80": {
     "$type": "sizing",
-    "$value": "{Number-80}"
+    "$value": "{miniDS-Number-80}"
   },
   "size-88": {
     "$type": "sizing",
-    "$value": "{Number-88}"
+    "$value": "{miniDS-Number-88}"
   },
   "size-120": {
     "$type": "sizing",
-    "$value": "{Number-120}"
+    "$value": "{miniDS-Number-120}"
   },
   "size-256": {
     "$type": "sizing",
-    "$value": "{Number-256}"
+    "$value": "{miniDS-Number-256}"
   },
   "size-320": {
     "$type": "sizing",
-    "$value": "{Number-320}"
+    "$value": "{miniDS-Number-320}"
   },
   "size-448": {
     "$type": "sizing",
-    "$value": "{Number-448}"
+    "$value": "{miniDS-Number-448}"
   },
   "size-600": {
     "$type": "sizing",
-    "$value": "{Number-600}"
+    "$value": "{miniDS-Number-600}"
   },
   "size-960": {
     "$type": "sizing",
-    "$value": "{Number-960}"
+    "$value": "{miniDS-Number-960}"
   },
   "space-0": {
     "$type": "spacing",
-    "$value": "{Number-0}"
+    "$value": "{miniDS-Number-0}"
   },
   "space-4": {
     "$type": "spacing",
-    "$value": "{Number-4}"
+    "$value": "{miniDS-Number-4}"
   },
   "space-8": {
     "$type": "spacing",
-    "$value": "{Number-8}"
+    "$value": "{miniDS-Number-8}"
   },
   "space-16": {
     "$type": "spacing",
-    "$value": "{Number-16}"
+    "$value": "{miniDS-Number-16}"
   },
   "space-32": {
     "$type": "spacing",
-    "$value": "{Number-32}"
+    "$value": "{miniDS-Number-32}"
   },
   "space-40": {
     "$type": "spacing",
-    "$value": "{Number-40}"
+    "$value": "{miniDS-Number-40}"
   },
   "space-48": {
     "$type": "spacing",
-    "$value": "{Number-48}"
+    "$value": "{miniDS-Number-48}"
   },
   "space-56": {
     "$type": "spacing",
-    "$value": "{Number-56}"
+    "$value": "{miniDS-Number-56}"
   },
   "borderWidth-0": {
     "$type": "borderWidth",
-    "$value": "{Number-0}"
+    "$value": "{miniDS-Number-0}"
   },
   "borderWidth-2": {
     "$type": "borderWidth",
-    "$value": "{Number-2}"
+    "$value": "{miniDS-Number-2}"
   },
   "borderWidth-1": {
     "$type": "borderWidth",
-    "$value": "{Number-1}"
+    "$value": "{miniDS-Number-1}"
   },
   "borderWidth-4": {
     "$type": "borderWidth",
-    "$value": "{Number-4}",
+    "$value": "{miniDS-Number-4}",
     "$description": "For focus status"
   },
   "border-negative": {
@@ -698,13 +698,13 @@
     }
   },
   "border-focus": {
+    "miniDS-$description": "For focus state",
     "$type": "border",
     "$value": {
       "color": "{primary.light}",
       "width": "{borderWidth-4}",
       "style": "solid"
-    },
-    "$description": "For focus state"
+    }
   },
   "border-primary": {
     "$type": "border",
