@@ -1,0 +1,24 @@
+[
+  {
+    "id": "9b59cfdb39f9d8fc182e2a8e0591cceab52e633b",
+    "name": "Default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "source",
+      "Semantic": "enabled",
+      "Components": "disabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "bb6dc97bf336fe248c9e57f42ddd6ca437fd86d7",
+    "name": "Brand 2",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "source",
+      "Semantic": "enabled",
+      "Components": "disabled"
+    },
+    "group": "Brand"
+  }
+]
