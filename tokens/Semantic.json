@@ -2,23 +2,23 @@
   "miniDS-primary": {
     "lighter": {
       "$type": "color",
-      "$value": "{miniDS-Mini-blue.100}"
+      "$value": "{miniDS-Mini-blue.lighter}"
     },
     "miniDS-light": {
       "$type": "color",
-      "$value": "{miniDS-Mini-blue.300}"
+      "$value": "{miniDS-Mini-blue.light}"
     },
     "miniDS-medium": {
       "$type": "color",
-      "$value": "{miniDS-Mini-blue.500}"
+      "$value": "{miniDS-Mini-blue.medium}"
     },
     "miniDS-dark": {
       "$type": "color",
-      "$value": "{miniDS-Mini-blue.700}"
+      "$value": "{miniDS-Mini-blue.dark}"
     },
     "miniDS-darker": {
       "$type": "color",
-      "$value": "{miniDS-Mini-blue.900}"
+      "$value": "{miniDS-Mini-blue.darker}"
     }
   },
   "secondary": {
@@ -499,7 +499,7 @@
       "lg": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fminiDS-ontFamilie-Roboto Mono}",
+          "fontFamily": "{miniDS-fontFamilie-Roboto Mono}",
           "fontWeight": "{miniDS-fontWeight-Bold}",
           "lineHeight": "{miniDS-lineHeight-150}",
           "letterSpacing": "{miniDS-letterSpacing-0}",
