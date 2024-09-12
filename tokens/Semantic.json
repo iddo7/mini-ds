@@ -164,42 +164,42 @@
     "lg": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamilie-Atkinson}",
-        "fontWeight": "{fontWeight-Bold}",
-        "lineHeight": "{lineHeight-120}",
-        "letterSpacing": "{letterSpacing-0}",
-        "paragraphSpacing": "{paragraphSpacing-0}",
-        "textDecoration": "{textDecoration-none}",
-        "textCase": "{textCase-none}",
-        "fontSize": "{fontSize-4000}"
+        "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+        "fontWeight": "{miniDS-fontWeight-Bold}",
+        "lineHeight": "{miniDS-lineHeight-120}",
+        "letterSpacing": "{miniDS-letterSpacing-0}",
+        "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+        "textDecoration": "{miniDS-textDecoration-none}",
+        "textCase": "{miniDS-textCase-none}",
+        "fontSize": "{miniDS-fontSize-4000}"
       },
       "$description": "For marketing purposes"
     },
-    "miniDS-md": {
+    "md": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamilie-Atkinson}",
-        "fontWeight": "{fontWeight-Bold}",
-        "lineHeight": "{lineHeight-120}",
-        "letterSpacing": "{letterSpacing-0}",
-        "paragraphSpacing": "{paragraphSpacing-0}",
-        "textDecoration": "{textDecoration-none}",
-        "textCase": "{textCase-none}",
-        "fontSize": "{fontSize-3500}"
+        "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+        "fontWeight": "{miniDS-fontWeight-Bold}",
+        "lineHeight": "{miniDS-lineHeight-120}",
+        "letterSpacing": "{miniDS-letterSpacing-0}",
+        "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+        "textDecoration": "{miniDS-textDecoration-none}",
+        "textCase": "{miniDS-textCase-none}",
+        "fontSize": "{miniDS-fontSize-3500}"
       },
       "$description": "For marketing purposes"
     },
-    "miniDS-sm": {
+    "sm": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamilie-Atkinson}",
-        "fontWeight": "{fontWeight-Bold}",
-        "lineHeight": "{lineHeight-120}",
-        "letterSpacing": "{letterSpacing-0}",
-        "paragraphSpacing": "{paragraphSpacing-0}",
-        "textDecoration": "{textDecoration-none}",
-        "textCase": "{textCase-none}",
-        "fontSize": "{fontSize-3000}"
+        "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+        "fontWeight": "{miniDS-fontWeight-Bold}",
+        "lineHeight": "{miniDS-lineHeight-120}",
+        "letterSpacing": "{miniDS-letterSpacing-0}",
+        "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+        "textDecoration": "{miniDS-textDecoration-none}",
+        "textCase": "{miniDS-textCase-none}",
+        "fontSize": "{miniDS-fontSize-3000}"
       },
       "$description": "For marketing purposes"
     }
@@ -208,70 +208,70 @@
     "H1": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamilie-Atkinson}",
-        "fontWeight": "{fontWeight-Bold}",
-        "lineHeight": "{lineHeight-120}",
-        "letterSpacing": "{letterSpacing-0}",
-        "paragraphSpacing": "{paragraphSpacing-0}",
-        "textDecoration": "{textDecoration-none}",
-        "textCase": "{textCase-none}",
-        "fontSize": "{fontSize-2250}"
+        "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+        "fontWeight": "{miniDS-fontWeight-Bold}",
+        "lineHeight": "{miniDS-lineHeight-120}",
+        "letterSpacing": "{miniDS-letterSpacing-0}",
+        "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+        "textDecoration": "{miniDS-textDecoration-none}",
+        "textCase": "{miniDS-textCase-none}",
+        "fontSize": "{miniDS-fontSize-2250}"
       },
       "$description": "For titles"
     },
-    "miniDS-H2": {
+    "H2": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamilie-Atkinson}",
-        "fontWeight": "{fontWeight-Bold}",
-        "lineHeight": "{lineHeight-120}",
-        "letterSpacing": "{letterSpacing-0}",
-        "paragraphSpacing": "{paragraphSpacing-0}",
-        "textDecoration": "{textDecoration-none}",
-        "textCase": "{textCase-none}",
-        "fontSize": "{fontSize-2000}"
+        "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+        "fontWeight": "{miniDS-fontWeight-Bold}",
+        "lineHeight": "{miniDS-lineHeight-120}",
+        "letterSpacing": "{miniDS-letterSpacing-0}",
+        "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+        "textDecoration": "{miniDS-textDecoration-none}",
+        "textCase": "{miniDS-textCase-none}",
+        "fontSize": "{miniDS-fontSize-2000}"
       },
       "$description": "For titles"
     },
-    "miniDS-H3": {
+    "H3": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamilie-Atkinson}",
-        "fontWeight": "{fontWeight-Bold}",
-        "lineHeight": "{lineHeight-120}",
-        "letterSpacing": "{letterSpacing-0}",
-        "paragraphSpacing": "{paragraphSpacing-0}",
-        "textDecoration": "{textDecoration-none}",
-        "textCase": "{textCase-none}",
-        "fontSize": "{fontSize-1750}"
+        "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+        "fontWeight": "{miniDS-fontWeight-Bold}",
+        "lineHeight": "{miniDS-lineHeight-120}",
+        "letterSpacing": "{miniDS-letterSpacing-0}",
+        "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+        "textDecoration": "{miniDS-textDecoration-none}",
+        "textCase": "{miniDS-textCase-none}",
+        "fontSize": "{miniDS-fontSize-1750}"
       },
       "$description": "For titles"
     },
-    "miniDS-H4": {
+    "H4": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamilie-Atkinson}",
-        "fontWeight": "{fontWeight-Bold}",
-        "lineHeight": "{lineHeight-120}",
-        "letterSpacing": "{letterSpacing-0}",
-        "paragraphSpacing": "{paragraphSpacing-0}",
-        "textDecoration": "{textDecoration-none}",
-        "textCase": "{textCase-none}",
-        "fontSize": "{fontSize-1500}"
+        "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+        "fontWeight": "{miniDS-fontWeight-Bold}",
+        "lineHeight": "{miniDS-lineHeight-120}",
+        "letterSpacing": "{miniDS-letterSpacing-0}",
+        "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+        "textDecoration": "{miniDS-textDecoration-none}",
+        "textCase": "{miniDS-textCase-none}",
+        "fontSize": "{miniDS-fontSize-1500}"
       },
       "$description": "For titles"
     },
-    "miniDS-H5": {
+    "H5": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamilie-Atkinson}",
-        "fontWeight": "{fontWeight-Bold}",
-        "lineHeight": "{lineHeight-120}",
-        "letterSpacing": "{letterSpacing-0}",
-        "paragraphSpacing": "{paragraphSpacing-0}",
-        "textDecoration": "{textDecoration-none}",
-        "textCase": "{textCase-none}",
-        "fontSize": "{fontSize-1250}"
+        "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+        "fontWeight": "{miniDS-fontWeight-Bold}",
+        "lineHeight": "{miniDS-lineHeight-120}",
+        "letterSpacing": "{miniDS-letterSpacing-0}",
+        "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+        "textDecoration": "{miniDS-textDecoration-none}",
+        "textCase": "{miniDS-textCase-none}",
+        "fontSize": "{miniDS-fontSize-1250}"
       },
       "$description": "For titles"
     }
@@ -281,81 +281,81 @@
       "lg": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-1125}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-1125}"
         }
       },
       "base": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-base}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Regular}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-base}"
         }
       },
       "sm": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-0875}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Regular}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-0875}"
         }
       }
     },
-    "miniDS-Bold": {
+    "Bold": {
       "lg": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-1125}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-1125}"
         }
       },
       "base": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-base}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-base}"
         }
       },
       "sm": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-0875}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-0875}"
         }
       }
     }
@@ -365,86 +365,86 @@
       "lg": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-underline}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-1125}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Regular}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-1125}"
         },
         "$description": "Links on paragraph"
       },
       "base": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-underline}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-base}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Regular}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-base}"
         },
         "$description": "Links on paragraph"
       },
       "sm": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-underline}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-0875}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Regular}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-0875}"
         },
         "$description": "Links on paragraph"
       }
     },
-    "miniDS-Bold": {
+    "Bold": {
       "lg": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-underline}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-1125}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-1125}"
         },
         "$description": "Links on paragraph"
       },
       "base": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-underline}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-base}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-base}"
         },
         "$description": "Links on paragraph"
       },
       "sm": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Atkinson}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-underline}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-0875}"
+          "fontFamily": "{miniDS-fontFamilie-Atkinson}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-0875}"
         },
         "$description": "Links on paragraph"
       }
@@ -455,108 +455,108 @@
       "lg": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Roboto Mono}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-1125}"
+          "fontFamily": "{miniDS-fontFamilie-Roboto Mono}",
+          "fontWeight": "{miniDS-fontWeight-Regular}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-1125}"
         },
         "$description": "For monospace usage"
       },
       "base": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Roboto Mono}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-base}"
+          "fontFamily": "{miniDS-fontFamilie-Roboto Mono}",
+          "fontWeight": "{miniDS-fontWeight-Regular}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-base}"
         },
         "$description": "For monospace usage"
       },
       "sm": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Roboto Mono}",
-          "fontWeight": "{fontWeight-Regular}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-0875}"
+          "fontFamily": "{miniDS-fontFamilie-Roboto Mono}",
+          "fontWeight": "{miniDS-fontWeight-Regular}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-0875}"
         },
         "$description": "Links on paragraph"
       }
     },
-    "miniDS-Bold": {
+    "Bold": {
       "lg": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Roboto Mono}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-1125}"
+          "fontFamily": "{fminiDS-ontFamilie-Roboto Mono}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-1125}"
         },
         "$description": "For monospace usage"
       },
       "base": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Roboto Mono}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-base}"
+          "fontFamily": "{miniDS-fontFamilie-Roboto Mono}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-base}"
         },
         "$description": "For monospace usage"
       },
       "sm": {
         "$type": "typography",
         "$value": {
-          "fontFamily": "{fontFamilie-Roboto Mono}",
-          "fontWeight": "{fontWeight-Bold}",
-          "lineHeight": "{lineHeight-150}",
-          "letterSpacing": "{letterSpacing-0}",
-          "paragraphSpacing": "{paragraphSpacing-0}",
-          "textDecoration": "{textDecoration-none}",
-          "textCase": "{textCase-none}",
-          "fontSize": "{fontSize-0875}"
+          "fontFamily": "{miniDS-fontFamilie-Roboto Mono}",
+          "fontWeight": "{miniDS-fontWeight-Bold}",
+          "lineHeight": "{miniDS-lineHeight-150}",
+          "letterSpacing": "{miniDS-letterSpacing-0}",
+          "paragraphSpacing": "{miniDS-paragraphSpacing-0}",
+          "textDecoration": "{miniDS-textDecoration-none}",
+          "textCase": "{miniDS-textCase-none}",
+          "fontSize": "{miniDS-fontSize-0875}"
         },
         "$description": "Links on paragraph"
       }
     }
   },
-  "radil-square": {
+  "radii-square": {
     "$type": "borderRadius",
     "$value": "{miniDS-Number-0}"
   },
-  "radil-medium": {
+  "radii-medium": {
     "$type": "borderRadius",
     "$value": "{miniDS-Number-16}"
   },
-  "radil-small": {
+  "radii-small": {
     "$type": "borderRadius",
     "$value": "{miniDS-Number-8}"
   },
-  "radil-Xsmall": {
+  "radii-Xsmall": {
     "$type": "borderRadius",
     "$value": "{miniDS-Number-4}"
   },
-  "radil-round": {
+  "radii-round": {
     "$type": "borderRadius",
     "$value": "{miniDS-Number-800}"
   },
@@ -692,7 +692,7 @@
   "border-negative": {
     "$type": "border",
     "$value": {
-      "color": "{Feedback.negative.medium}",
+      "color": "{Feedback.miniDS-negative.medium}",
       "width": "{borderWidth-1}",
       "style": "solid"
     }
@@ -701,7 +701,7 @@
     "miniDS-$description": "For focus state",
     "$type": "border",
     "$value": {
-      "color": "{primary.light}",
+      "color": "{miniDS-primary.miniDS-light}",
       "width": "{borderWidth-4}",
       "style": "solid"
     }
@@ -709,7 +709,7 @@
   "border-primary": {
     "$type": "border",
     "$value": {
-      "color": "{primary.medium}",
+      "color": "{miniDS-primary.miniDS-medium}",
       "width": "{borderWidth-1}",
       "style": "solid"
     }

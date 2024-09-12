@@ -2,7 +2,7 @@
   "Backgrounds": {
     "miniDS-background-bouton-primary": {
       "$type": "color",
-      "$value": "{miniDS-Mini-blue.500}"
+      "$value": "{miniDS-primary.miniDS-medium}"
     }
   }
 }
