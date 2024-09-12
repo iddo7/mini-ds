@@ -208,7 +208,7 @@
     },
     "medium": {
       "$type": "color",
-      "$value": "#0073e6"
+      "$value": "#1380ec"
     },
     "dark": {
       "$extensions": {
@@ -398,7 +398,7 @@
     },
     "medium": {
       "$type": "color",
-      "$value": "#8500e6"
+      "$value": "#9019e6"
     },
     "dark": {
       "$extensions": {
