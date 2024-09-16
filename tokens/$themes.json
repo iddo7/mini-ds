@@ -4,10 +4,8 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "🔆 Core": "source",
       "🔆 Semantic": "source",
-      "🔆 Theme/↳ Light": "enabled",
-      "🔆 Global theme": "enabled"
+      "🔆 Components": "enabled"
     },
     "group": "Theme"
   },
@@ -16,10 +14,9 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "🔆 Core": "source",
       "🔆 Semantic": "source",
-      "🔆 Theme/↳ Dark": "enabled",
-      "🔆 Global theme": "enabled"
+      "🔆 Theme/↳ Light": "enabled",
+      "🔆 Components": "enabled"
     },
     "group": "Theme"
   },
@@ -28,9 +25,8 @@
     "name": "BrandA",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "🔆 Semantic": "source",
-      "🔆 Global theme": "source",
-      "🔆 Overrides/ ↳ Brands/🅰️ Brand A": "enabled"
+      "🔆 Overrides/ ↳ Brands/🅰️ Brand A": "enabled",
+      "🔆 Components": "source"
     },
     "group": "Brands"
   },
@@ -40,8 +36,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "🔆 Semantic": "source",
-      "🔆 Global theme": "source",
-      "🔆 Overrides/ ↳ Brands/🅰️ Brand B": "enabled"
+      "🔆 Overrides/ ↳ Brands/🅰️ Brand B": "enabled",
+      "🔆 Components": "source"
     },
     "group": "Brands"
   }

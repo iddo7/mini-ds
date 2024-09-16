@@ -1,0 +1,10 @@
+{
+  "button": {
+    "primary": {
+      "background": {
+        "$type": "color",
+        "$value": "{button.primary.background}"
+      }
+    }
+  }
+}

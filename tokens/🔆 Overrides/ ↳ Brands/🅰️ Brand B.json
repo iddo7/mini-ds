@@ -1,6 +1,14 @@
 {
-  "primary-default": {
-    "$type": "color",
-    "$value": "{BrandB-violet.medium}"
+  "button": {
+    "primary": {
+      "background": {
+        "$type": "color",
+        "$value": "{Brands.BrandB-violet.medium}"
+      }
+    },
+    "borderRadius": {
+      "$type": "borderRadius",
+      "$value": "{radii-round}"
+    }
   }
 }

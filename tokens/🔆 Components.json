@@ -3,8 +3,48 @@
     "primary": {
       "background": {
         "$type": "color",
-        "$value": "{primary-default}"
+        "$value": "{primary.medium}"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{primary.onPrimary}"
       }
+    },
+    "borderRadius": {
+      "$type": "borderRadius",
+      "$value": "{radii-Xsmall}"
+    },
+    "height": {
+      "$type": "sizing",
+      "$value": "{size-48}"
+    },
+    "padding": {
+      "$type": "spacing",
+      "$value": "{space-16}"
+    }
+  },
+  "card": {
+    "borderRadius": {
+      "$type": "borderRadius",
+      "$value": "{radii-small}"
+    },
+    "background": {
+      "$type": "color",
+      "$value": "{bg.default}"
+    }
+  },
+  "H1": {
+    "$type": "typography",
+    "$value": "{Heading.H1}"
+  },
+  "button-label": {
+    "$type": "typography",
+    "$value": "{Paragraph.Bold.lg}"
+  },
+  "Paragraph": {
+    "regular": {
+      "$type": "typography",
+      "$value": "{Paragraph.Regular.base}"
     }
   }
 }
