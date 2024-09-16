@@ -1,8 +1,0 @@
-{
-  "Backgrounds": {
-    "miniDS-background-bouton-primary": {
-      "$type": "color",
-      "$value": "{miniDS-primary.miniDS-medium}"
-    }
-  }
-}

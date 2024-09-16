@@ -1,24 +1,48 @@
 [
   {
-    "id": "9b59cfdb39f9d8fc182e2a8e0591cceab52e633b",
-    "name": "Default",
+    "id": "ccb0556a877696a1989a3d5c60fee931eba7e0de",
+    "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Semantic": "source",
-      "Components": "enabled",
-      "global": "source"
+      "🔆 Core": "source",
+      "🔆 Semantic": "source",
+      "🔆 Theme/↳ Light": "enabled",
+      "🔆 Global theme": "enabled"
     },
-    "group": "Brand"
+    "group": "Theme"
   },
   {
-    "id": "bb6dc97bf336fe248c9e57f42ddd6ca437fd86d7",
-    "name": "Brand 2",
+    "id": "e896b94be38a228115950ec894d934adff6d589b",
+    "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Semantic": "source",
-      "Components": "enabled",
-      "global": "source"
+      "🔆 Core": "source",
+      "🔆 Semantic": "source",
+      "🔆 Theme/↳ Dark": "enabled",
+      "🔆 Global theme": "enabled"
     },
-    "group": "Brand"
+    "group": "Theme"
+  },
+  {
+    "id": "74fd92bf35cc1d296e39fa1cc800d82339591498",
+    "name": "BrandA",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "🔆 Semantic": "source",
+      "🔆 Global theme": "source",
+      "🔆 Overrides/ ↳ Brands/🅰️ Brand A": "enabled"
+    },
+    "group": "Brands"
+  },
+  {
+    "id": "527e51670738d7aed19d5a3913a26d91a86ea74a",
+    "name": "BrandB",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "🔆 Semantic": "source",
+      "🔆 Global theme": "source",
+      "🔆 Overrides/ ↳ Brands/🅰️ Brand B": "enabled"
+    },
+    "group": "Brands"
   }
 ]

@@ -1,7 +1,12 @@
 {
   "tokenSetOrder": [
-    "global",
-    "Semantic",
-    "Components"
+    "🔆 Core",
+    "🔆 Semantic",
+    "🔆 Theme/↳ Light",
+    "🔆 Theme/↳ Dark",
+    "🔆 Global theme",
+    "🔆 Overrides/ ↳ Brands/🅰️ Brand A",
+    "🔆 Overrides/ ↳ Brands/🅰️ Brand B",
+    "🔆 Components"
   ]
 }

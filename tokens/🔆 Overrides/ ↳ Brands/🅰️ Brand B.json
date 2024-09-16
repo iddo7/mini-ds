@@ -1,0 +1,6 @@
+{
+  "primary-default": {
+    "$type": "color",
+    "$value": "{BrandB-violet.medium}"
+  }
+}
