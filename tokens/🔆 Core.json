@@ -488,5 +488,19 @@
   "Number-0": {
     "$type": "number",
     "$value": "0"
+  },
+  "icon": {
+    "ui": {
+      "dropdown": {
+        "$type": "icon",
+        "$value": "fa-solid fa-chevron-down",
+        "$description": "chevron-down"
+      },
+      "search": {
+        "$type": "icon",
+        "$value": "fa-solid fa-magnifying-glass",
+        "$description": "magnifying-glass"
+      }
+    }
   }
 }

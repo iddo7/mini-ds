@@ -1,1 +1,36 @@
-{}
+{
+  "fg": {
+    "default": {
+      "$type": "color",
+      "$value": "{Neutral.light}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{Neutral.lighter}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{Neutral.medium}"
+    }
+  },
+  "bg": {
+    "default": {
+      "$type": "color",
+      "$value": "{Neutral.darker}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{Neutral.dark}"
+    }
+  },
+  "primary": {
+    "default": {
+      "$type": "color",
+      "$value": "{primary.medium}"
+    },
+    "onPrimary": {
+      "$type": "color",
+      "$value": "{Neutral.white}"
+    }
+  }
+}

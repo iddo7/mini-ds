@@ -7,18 +7,51 @@
       "🔆 Semantic": "source",
       "🔆 Components": "enabled"
     },
-    "group": "Theme"
+    "$figmaVariableReferences": {
+      "button.primary.background": "e20ae039c7acbbfb436624c2abeafbe4592b8623",
+      "button.borderRadius": "a422dc38234e8b5c8557039c618e1f25968594d2",
+      "card.borderRadius": "0be42d922c04b7f0ae0694390c2eeb5a53d01f9f",
+      "button.height": "09c136574bf33dd8a345ee2185a50effeab7de34",
+      "button.padding": "85d376ad4cbe80cc366dfba8be382304909373d1",
+      "button.primary.text": "599815e2a32525de3bc351aab72388d08b8ae0b0",
+      "card.background": "907c9f0aa100e4fd19120f8528a3b71913f932e4"
+    },
+    "group": "Theme",
+    "$figmaCollectionId": "VariableCollectionId:47:727",
+    "$figmaModeId": "47:0"
   },
   {
     "id": "e896b94be38a228115950ec894d934adff6d589b",
     "name": "Dark",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "H1": "S:42da9978d68b2ae105225c8ac2912a5057e93443,",
+      "button-label": "S:1911aa5e551bbe7e0ac7b90f3bd342a4371e6be1,",
+      "Paragraph.regular": "S:d3a959ffc4c2926ef956ad65258fcecd4a410314,"
+    },
     "selectedTokenSets": {
       "🔆 Semantic": "source",
       "🔆 Theme/↳ Light": "enabled",
       "🔆 Components": "enabled"
     },
-    "group": "Theme"
+    "$figmaVariableReferences": {
+      "button.primary.background": "e20ae039c7acbbfb436624c2abeafbe4592b8623",
+      "button.borderRadius": "a422dc38234e8b5c8557039c618e1f25968594d2",
+      "fg.default": "738c805b966763fdaed8361376b621a21d9a320f",
+      "fg.muted": "bc729ebc3f050c38559915c951b50c0ebf3d8e6d",
+      "fg.subtle": "e8dfd456d7daf511abcfa5b8adb5d9f8bbd595b8",
+      "bg.default": "469bd22916a196fce3a5c5b0e6025ffa0695fc9c",
+      "bg.subtle": "ec0a317f142ae4ce0b1dc105c632c59d65b800ed",
+      "primary.default": "8468b0414e9f137eb0f6a06440070206838700fe",
+      "primary.onPrimary": "f4aaed7878f7be72efac771782206dcd104c48fb",
+      "card.borderRadius": "0be42d922c04b7f0ae0694390c2eeb5a53d01f9f",
+      "button.height": "09c136574bf33dd8a345ee2185a50effeab7de34",
+      "button.padding": "85d376ad4cbe80cc366dfba8be382304909373d1",
+      "button.primary.text": "599815e2a32525de3bc351aab72388d08b8ae0b0",
+      "card.background": "907c9f0aa100e4fd19120f8528a3b71913f932e4"
+    },
+    "group": "Theme",
+    "$figmaCollectionId": "VariableCollectionId:47:727",
+    "$figmaModeId": "47:1"
   },
   {
     "id": "74fd92bf35cc1d296e39fa1cc800d82339591498",
@@ -28,7 +61,13 @@
       "🔆 Overrides/ ↳ Brands/🅰️ Brand A": "enabled",
       "🔆 Components": "source"
     },
-    "group": "Brands"
+    "$figmaVariableReferences": {
+      "button.primary.background": "9cc8daa6bd83f2567d2bc0ab82215461539f87c3",
+      "button.borderRadius": "51459027d8329ebba508eb3da2b3589876600da5"
+    },
+    "group": "Brands",
+    "$figmaCollectionId": "VariableCollectionId:47:728",
+    "$figmaModeId": "47:2"
   },
   {
     "id": "527e51670738d7aed19d5a3913a26d91a86ea74a",
@@ -39,6 +78,12 @@
       "🔆 Overrides/ ↳ Brands/🅰️ Brand B": "enabled",
       "🔆 Components": "source"
     },
-    "group": "Brands"
+    "group": "Brands",
+    "$figmaVariableReferences": {
+      "button.primary.background": "9cc8daa6bd83f2567d2bc0ab82215461539f87c3",
+      "button.borderRadius": "51459027d8329ebba508eb3da2b3589876600da5"
+    },
+    "$figmaCollectionId": "VariableCollectionId:47:728",
+    "$figmaModeId": "47:3"
   }
 ]

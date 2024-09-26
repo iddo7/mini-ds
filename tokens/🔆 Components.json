@@ -30,7 +30,11 @@
     },
     "background": {
       "$type": "color",
-      "$value": "{bg.default}"
+      "$value": "{bg.subtle}"
+    },
+    "border": {
+      "$type": "color",
+      "$value": "{Neutral.light}"
     }
   },
   "H1": {
